@@ -14,8 +14,8 @@ anomaly-based intrusion detection in a real-world SOC context.
 | Model | Architecture | Best Validation Accuracy |
 |---|---|---|
 | CNN | 1D Convolutional Neural Network | **99.5%** |
-| RNN | Recurrent Neural Network | ~97.8% |
-| Random Forest | Ensemble Decision Trees | — |
+| RNN | Recurrent Neural Network | 97.8% |
+| Random Forest | Ensemble Decision Trees | 93%|
 
 ## Attack Types Detected
 The models were trained to classify the following traffic categories from CICIDS 2017:
